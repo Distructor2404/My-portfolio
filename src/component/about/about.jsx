@@ -42,17 +42,16 @@ const about = () => {
 
             <p>
             Having a Simple and Professional Attitide. Always ready to accept any Challenge. I accept the failure to rise up with more Acceleration.
-<<<<<<< HEAD
+
             I am a Tech Lover by Birth. I have a great interest in Hardware and Networking, I Love to
 deal with all kinds of Computer Related work and
 troubleshooting in Windows. I also have a Brief
-=======
             I am a Tech Lover by Birth. I am having a great interest in Hardware and Networking, I Love to
 deal with all kinds of Computer Related work and
 troubleshooting in Windows. I also have a brief
->>>>>>> 62de2add097e68f9e79b4f185060c510b2e98fc2
+
 Knowledge regarding Front-end Web
-Development (React, Html, Css). <br/>
+Development (React, Html, Css). <br/><br/>
 Learning new things is my Passion. I do any work with 100% effort. I am fond of programming and all sorts of graphics works. Always in a step to move forward for my goal.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
