@@ -67,10 +67,10 @@ const portfolio = () => {
           <div className="portfolio__item-image">
               <img src={IMG5} alt='' />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Behance Graphics Portfolio</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://www.behance.net/abhishekumars9" className='btn' target='_blank'>Behance</a>
+          
           </div>
         </article>
 
@@ -78,10 +78,10 @@ const portfolio = () => {
           <div className="portfolio__item-image">
               <img src={IMG6} alt='' />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Parallax Scrolling Website</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/Distructor2404/Parallex-Scrolling-Website" className='btn' target='_blank'>Github</a>
+          <a href="https://distructor2404.github.io/Parallex-Scrolling-Website/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
