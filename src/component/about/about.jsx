@@ -45,12 +45,9 @@ const about = () => {
 
             I am a Tech Lover by Birth. I have a great interest in Hardware and Networking, I Love to
 deal with all kinds of Computer Related work and
-troubleshooting in Windows. I also have a Brief
-            I am a Tech Lover by Birth. I am having a great interest in Hardware and Networking, I Love to
-deal with all kinds of Computer Related work and
-troubleshooting in Windows. I also have a brief
-
-Knowledge regarding Front-end Web
+troubleshooting in Windows. 
+             I also have a brief
+Knowledge regarding Front-End Web
 Development (React, Html, Css). <br/><br/>
 Learning new things is my Passion. I do any work with 100% effort. I am fond of programming and all sorts of graphics works. Always in a step to move forward for my goal.
             </p>
