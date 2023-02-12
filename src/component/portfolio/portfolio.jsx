@@ -34,10 +34,10 @@ const portfolio = () => {
           <div className="portfolio__item-image">
               <img src={IMG2} alt='' />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Neon VR Movies Platform UI using Figma</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          
+          <a href="https://www.figma.com/proto/1Cw0UvlYVCKqcoqOQKNwjP/Neon-VR-movies-app-UI?node-id=4%3A76&scaling=min-zoom&page-id=1%3A981&starting-point-node-id=4%3A76" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
