@@ -45,7 +45,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
               <img src={IMG3} alt='' />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Bicycle Phone UI using Figma</h3>
           <div className="portfolio__item-cta">
           
           <a href="https://www.figma.com/proto/jR8yAc485qYrIgriEu978w/Bicycle-App-UI?node-id=1%3A2276&scaling=min-zoom&page-id=1%3A4&starting-point-node-id=1%3A2921" className='btn btn-primary' target='_blank'>Live Demo</a>
